@@ -1,0 +1,1 @@
+Simple GUI for downloading papers from Sci-Hub, made specifically for my mother.
